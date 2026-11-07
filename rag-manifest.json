@@ -1,0 +1,104 @@
+{
+  "manifest_version": "1.0.0",
+  "repo": "joseki-korea/manufacturing-ai-week4",
+  "updated": "2026-11-07",
+  "docs": [
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "id": "manufacturing-ai-week4/docs/ARCHITECTURE.md",
+      "doc_type": "architecture",
+      "tags": [
+        "architecture",
+        "manufacturing-ai-week4"
+      ],
+      "updated": "2026-11-07",
+      "sha8": "744b75c6"
+    },
+    {
+      "path": "docs/ROLES.md",
+      "id": "manufacturing-ai-week4/docs/ROLES.md",
+      "doc_type": "roles",
+      "tags": [
+        "roles",
+        "manufacturing-ai-week4"
+      ],
+      "updated": "2026-11-07",
+      "sha8": "7cf0658e"
+    },
+    {
+      "path": "docs/RULES.md",
+      "id": "manufacturing-ai-week4/docs/RULES.md",
+      "doc_type": "rules",
+      "tags": [
+        "rules",
+        "manufacturing-ai-week4"
+      ],
+      "updated": "2026-11-07",
+      "sha8": "cf88ca92"
+    },
+    {
+      "path": "assets/images/README.md",
+      "id": "manufacturing-ai-week4/assets/images/README.md",
+      "doc_type": "asset-index",
+      "tags": [
+        "asset-index",
+        "manufacturing-ai-week4"
+      ],
+      "updated": "2026-11-07",
+      "sha8": "1fb1d166"
+    },
+    {
+      "path": "assets/components/README.md",
+      "id": "manufacturing-ai-week4/assets/components/README.md",
+      "doc_type": "asset-index",
+      "tags": [
+        "asset-index",
+        "manufacturing-ai-week4"
+      ],
+      "updated": "2026-11-07",
+      "sha8": "7d1f19cd"
+    },
+    {
+      "path": "assets/binaries/README.md",
+      "id": "manufacturing-ai-week4/assets/binaries/README.md",
+      "doc_type": "asset-index",
+      "tags": [
+        "asset-index",
+        "manufacturing-ai-week4"
+      ],
+      "updated": "2026-11-07",
+      "sha8": "1e09cb9a"
+    },
+    {
+      "path": "assets/src/README.md",
+      "id": "manufacturing-ai-week4/assets/src/README.md",
+      "doc_type": "asset-index",
+      "tags": [
+        "asset-index",
+        "manufacturing-ai-week4"
+      ],
+      "updated": "2026-11-07",
+      "sha8": "26ce2532"
+    },
+    {
+      "path": "handoffs/README.md",
+      "id": "manufacturing-ai-week4/handoffs/README.md",
+      "doc_type": "handoff",
+      "tags": [
+        "handoff",
+        "manufacturing-ai-week4"
+      ],
+      "updated": "2026-11-07",
+      "sha8": "1ae743ce"
+    }
+  ],
+  "excluded_paths": [
+    "assets/binaries",
+    ".env*",
+    "node_modules",
+    ".git",
+    "dist",
+    "build",
+    ".cache"
+  ]
+}
