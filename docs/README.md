@@ -3,7 +3,7 @@ id: "manufacturing-ai-week4/docs/README.md"
 title: "docs Directory Index"
 repo: joseki-korea/manufacturing-ai-week4
 device_scope: all
-doc_type: directory-index
+doc_type: readme
 tags:
   - index
   - "docs"

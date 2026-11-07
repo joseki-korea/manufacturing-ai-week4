@@ -1,6 +1,6 @@
 ---
 id: "manufacturing-ai-week4/docs/ROLES.md"
-title: Operational Roles and Multi-Agent Responsibilities
+title: "Operational Roles and Multi-Agent Responsibilities"
 repo: joseki-korea/manufacturing-ai-week4
 device_scope: all
 doc_type: roles

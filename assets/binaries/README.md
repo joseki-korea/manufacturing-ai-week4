@@ -1,6 +1,6 @@
 ---
 id: manufacturing-ai-week4/assets/binaries/README.md
-title: Binaries Asset Index and Google Drive Integration
+title: "Binaries Asset Index and Google Drive Integration"
 repo: joseki-korea/manufacturing-ai-week4
 device_scope: all
 doc_type: asset-index

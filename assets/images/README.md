@@ -1,6 +1,6 @@
 ---
 id: manufacturing-ai-week4/assets/images/README.md
-title: Images Asset Index and Google Drive Integration
+title: "Images Asset Index and Google Drive Integration"
 repo: joseki-korea/manufacturing-ai-week4
 device_scope: all
 doc_type: asset-index

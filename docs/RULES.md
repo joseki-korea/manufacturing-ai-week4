@@ -1,6 +1,6 @@
 ---
 id: manufacturing-ai-week4/docs/RULES.md
-title: Repository Rules
+title: "Repository Rules"
 repo: joseki-korea/manufacturing-ai-week4
 device_scope: all
 doc_type: rules

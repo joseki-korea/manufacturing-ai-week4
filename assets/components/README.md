@@ -1,6 +1,6 @@
 ---
 id: manufacturing-ai-week4/assets/components/README.md
-title: Assets Components Index
+title: "Assets Components Index"
 repo: joseki-korea/manufacturing-ai-week4
 device_scope: all
 doc_type: asset-index

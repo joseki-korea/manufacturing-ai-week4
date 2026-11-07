@@ -1,6 +1,6 @@
 ---
 id: manufacturing-ai-week4/assets/src/README.md
-title: Assets Src Index
+title: "Assets Src Index"
 repo: joseki-korea/manufacturing-ai-week4
 device_scope: all
 doc_type: asset-index

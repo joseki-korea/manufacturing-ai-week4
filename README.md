@@ -1,6 +1,6 @@
 ---
 id: manufacturing-ai-week4/README.md
-title: 충북대학교 제조 AI 실제 (8884023-01) - 4주차 실습 및 과제
+title: "충북대학교 제조 AI 실제 (8884023-01) - 4주차 실습 및 과제"
 repo: joseki-korea/manufacturing-ai-week4
 device_scope: all
 doc_type: readme
@@ -14,7 +14,7 @@ source_of_truth: README.md
 
 # 충북대학교 제조 AI 실제 (8884023-01) - 4주차 실습 및 과제
 
-- **실습과정**: 충북대학교 제조 AI 실제 4주차 과제
+- **작성자**: 2026154001 정용석
 - **교과목**: 제조 AI 실제 (8884023-01, 충북대학교 산업인공지능연구센터 김영진 교수)
 - **주제**: 지도학습 (Learning Strategies: Supervised Learning)
 
@@ -48,10 +48,3 @@ source_of_truth: README.md
 ### 4. 클래스 불균형과 정확도의 착시
 - 양품이 96%인 불균형 데이터셋에서는 단순 모델이 모두 정상으로만 예측해도 96%의 높은 정확도 착시(Accuracy Paradox)가 발생.
 - 50:50 균형 테스트셋에서는 실제 성능이 50% 수준으로 폭락함을 확인하였으며, 소수 클래스 검출을 위해 `Balanced Data Augmentation` 및 `Class Weighting`을 적용하여 Recall 및 F1-Score를 대폭 개선.
-
-## 표준 문서 및 거버넌스
-
-- [레포지토리 규칙 (docs/RULES.md)](docs/RULES.md)
-- [에이전트 역할 정의 (docs/ROLES.md)](docs/ROLES.md)
-- [디렉토리 아키텍처 (docs/ARCHITECTURE.md)](docs/ARCHITECTURE.md)
-- [세션 인수인계 기록 (handoffs/)](handoffs/README.md)

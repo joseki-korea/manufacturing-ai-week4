@@ -12,18 +12,18 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "be102bf6"
+      "sha8": "d8e2e6b7"
     },
     {
       "path": "docs/README.md",
       "id": "manufacturing-ai-week4/docs/README.md",
-      "doc_type": "directory-index",
+      "doc_type": "readme",
       "tags": [
-        "directory-index",
+        "readme",
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "b1fe42bd"
+      "sha8": "0d4d5682"
     },
     {
       "path": "docs/ROLES.md",
@@ -34,7 +34,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "258498af"
+      "sha8": "0f205277"
     },
     {
       "path": "docs/RULES.md",
@@ -45,18 +45,18 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "b33b2946"
+      "sha8": "395f8601"
     },
     {
       "path": "assets/README.md",
       "id": "manufacturing-ai-week4/assets/README.md",
-      "doc_type": "directory-index",
+      "doc_type": "readme",
       "tags": [
-        "directory-index",
+        "readme",
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "12a1b17f"
+      "sha8": "5e7889ab"
     },
     {
       "path": "assets/images/README.md",
@@ -67,7 +67,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "052d227c"
+      "sha8": "b6836ad1"
     },
     {
       "path": "assets/components/README.md",
@@ -78,7 +78,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "7394ade5"
+      "sha8": "11e511d9"
     },
     {
       "path": "assets/videos/README.md",
@@ -100,7 +100,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "9dbbd9b4"
+      "sha8": "f08b0b5f"
     },
     {
       "path": "assets/src/README.md",
@@ -111,7 +111,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "0facc4fd"
+      "sha8": "93618e20"
     },
     {
       "path": "handoffs/README.md",
@@ -122,10 +122,11 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "03fc1fe4"
+      "sha8": "323fba8f"
     }
   ],
   "excluded_paths": [
+    "README.md (PII-pre-existing)",
     "assets/images/*",
     "assets/binaries/*",
     "assets/videos/*",

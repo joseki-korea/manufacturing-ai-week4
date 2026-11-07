@@ -1,6 +1,6 @@
 ---
 id: manufacturing-ai-week4/handoffs/README.md
-title: Agent Session Handoff Notes Index
+title: "Agent Session Handoff Notes Index"
 repo: joseki-korea/manufacturing-ai-week4
 device_scope: all
 doc_type: handoff

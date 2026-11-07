@@ -3,7 +3,7 @@ id: "manufacturing-ai-week4/assets/README.md"
 title: "assets Directory Index"
 repo: joseki-korea/manufacturing-ai-week4
 device_scope: all
-doc_type: directory-index
+doc_type: readme
 tags:
   - index
   - "assets"
