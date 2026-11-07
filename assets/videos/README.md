@@ -20,7 +20,7 @@ source_of_truth: "assets/videos/README.md"
 ## 1. 목적 및 연동 원칙
 - **소스코드-깃허브 / 비디오-구글드라이브 연동**: 대용량 비디오 자산은 Git 저장소 용량 과적을 방지하고 최적의 대역폭 관리를 위해 Google Drive 동기화 폴더로 분리 연동 관리합니다.
 - **Drive 경로**: `Orca 자산/manufacturing-ai-week4/videos`
-- **동기화 주체**: 로그인 컨텍스트 카드 기준 Google Drive 활성 로그인 단말 (`GQFK` JM_Global / `indiasolucionemos@gmail.com` 등 활성 계정 단말).
+- **동기화 주체**: 로그인 컨텍스트 카드 기준 Google Drive 활성 로그인 단말 (`GQFK` JM_Global / `Google Drive 연동 계정` 등 활성 계정 단말).
 - **동기화 원칙 (Zero-Loss Safe Sync)**:
   - **신규 파일 전용 동기화 (New-file-only sync)**: 신규 생성된 영상 파일만 선택적으로 동기화합니다.
   - **무결성 검증 (Verify Size + SHA-256)**: 업로드 전/후 파일 크기 및 체크섬을 전수 교차 검증합니다.

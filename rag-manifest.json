@@ -12,7 +12,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "dac025be"
+      "sha8": "be102bf6"
     },
     {
       "path": "docs/README.md",
@@ -67,7 +67,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "66fac341"
+      "sha8": "052d227c"
     },
     {
       "path": "assets/components/README.md",
@@ -81,6 +81,17 @@
       "sha8": "7394ade5"
     },
     {
+      "path": "assets/videos/README.md",
+      "id": "manufacturing-ai-week4/assets/videos/README.md",
+      "doc_type": "asset-index",
+      "tags": [
+        "asset-index",
+        "manufacturing-ai-week4"
+      ],
+      "updated": "2026-11-07",
+      "sha8": "56bc2aab"
+    },
+    {
       "path": "assets/binaries/README.md",
       "id": "manufacturing-ai-week4/assets/binaries/README.md",
       "doc_type": "asset-index",
@@ -89,7 +100,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "3050449e"
+      "sha8": "9dbbd9b4"
     },
     {
       "path": "assets/src/README.md",
@@ -112,28 +123,18 @@
       ],
       "updated": "2026-11-07",
       "sha8": "03fc1fe4"
-    },
-    {
-      "path": "assets/videos/README.md",
-      "id": "manufacturing-ai-week4/assets/videos/README.md",
-      "doc_type": "asset-index",
-      "tags": [
-        "asset-index",
-        "manufacturing-ai-week4"
-      ],
-      "updated": "2026-11-07",
-      "sha8": "9770fe5f"
     }
   ],
   "excluded_paths": [
     "assets/images/*",
     "assets/binaries/*",
+    "assets/videos/*",
     ".env*",
     "node_modules",
     ".git",
     "dist",
     "build",
     ".cache",
-    "assets/videos/*"
+    "__pycache__"
   ]
 }
