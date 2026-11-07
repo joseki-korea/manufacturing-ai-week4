@@ -39,10 +39,10 @@ manufacturing-ai-week4/
 ```
 
 ### 주요 폴더 설명
-- `assets/`: 0 files
+- `assets/`: 1 files
 - `assets/binaries/`: 2 files
 - `assets/components/`: 1 files
 - `assets/images/`: 2 files
 - `assets/src/`: 1 files
-- `docs/`: 3 files
+- `docs/`: 4 files
 - `handoffs/`: 1 files

@@ -12,7 +12,18 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "1659451d"
+      "sha8": "ca34e4e7"
+    },
+    {
+      "path": "docs/README.md",
+      "id": "manufacturing-ai-week4/docs/README.md",
+      "doc_type": "directory-index",
+      "tags": [
+        "directory-index",
+        "manufacturing-ai-week4"
+      ],
+      "updated": "2026-11-07",
+      "sha8": "b1fe42bd"
     },
     {
       "path": "docs/ROLES.md",
@@ -35,6 +46,17 @@
       ],
       "updated": "2026-11-07",
       "sha8": "b33b2946"
+    },
+    {
+      "path": "assets/README.md",
+      "id": "manufacturing-ai-week4/assets/README.md",
+      "doc_type": "directory-index",
+      "tags": [
+        "directory-index",
+        "manufacturing-ai-week4"
+      ],
+      "updated": "2026-11-07",
+      "sha8": "12a1b17f"
     },
     {
       "path": "assets/images/README.md",
