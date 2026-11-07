@@ -12,7 +12,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "36ccc37b"
+      "sha8": "dac025be"
     },
     {
       "path": "docs/README.md",
@@ -112,6 +112,17 @@
       ],
       "updated": "2026-11-07",
       "sha8": "03fc1fe4"
+    },
+    {
+      "path": "assets/videos/README.md",
+      "id": "manufacturing-ai-week4/assets/videos/README.md",
+      "doc_type": "asset-index",
+      "tags": [
+        "asset-index",
+        "manufacturing-ai-week4"
+      ],
+      "updated": "2026-11-07",
+      "sha8": "9770fe5f"
     }
   ],
   "excluded_paths": [
@@ -122,6 +133,7 @@
     ".git",
     "dist",
     "build",
-    ".cache"
+    ".cache",
+    "assets/videos/*"
   ]
 }

@@ -31,6 +31,7 @@ Repo Standard 적용 후 목표 폴더 구조:
 - `assets/binaries/`
 - `assets/components/`
 - `assets/images/`
+- `assets/videos/`
 - `assets/src/`
 - `docs/`
 - `handoffs/`

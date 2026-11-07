@@ -5,3 +5,20 @@
 /assets/binaries/*
 !/assets/binaries/README.md
 !/assets/binaries/drive-manifest.json
+
+# Video assets Drive sync (Addendum 5)
+/assets/videos/*
+!/assets/videos/README.md
+!/assets/videos/drive-manifest.json
+
+# Untracked media files outside assets
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
