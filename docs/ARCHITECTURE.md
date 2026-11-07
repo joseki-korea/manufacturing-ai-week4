@@ -27,15 +27,15 @@ source_of_truth: "docs/ARCHITECTURE.md"
 기본 브랜치 기준 기존 루트 파일 및 폴더 구조:
 
 ### 2.1. 루트 추적 파일 (Tracked Root Files)
-- `student_submission_lab4_1_regression_activation_and_loss.ipynb`
-- `student_submission_lab4_2_classification_activation_and_loss.ipynb`
-- `student_submission_lab4_3_challenging_problems.ipynb`
-- `student_submission_lab4_4_techniques_for_challenging_problems.ipynb`
+- `student_submission_src/notebooks/lab4-1-regression-activation-and-loss.ipynb`
+- `student_submission_src/notebooks/lab4-2-classification-activation-and-loss.ipynb`
+- `student_submission_src/notebooks/lab4-3-challenging-problems.ipynb`
+- `student_submission_src/notebooks/lab4-4-techniques-for-challenging-problems.ipynb`
 - `README.md`
-- `lab4_1_regression_activation_and_loss.ipynb`
-- `lab4_2_classification_activation_and_loss.ipynb`
-- `lab4_3_challenging_problems.ipynb`
-- `lab4_4_techniques_for_challenging_problems.ipynb`
+- `src/notebooks/lab4-1-regression-activation-and-loss.ipynb`
+- `src/notebooks/lab4-2-classification-activation-and-loss.ipynb`
+- `src/notebooks/lab4-3-challenging-problems.ipynb`
+- `src/notebooks/lab4-4-techniques-for-challenging-problems.ipynb`
 
 ### 2.2. 디렉토리 구조 (Directory Tree)
 - *(루트 레벨 디렉토리 없음)*
@@ -44,10 +44,6 @@ source_of_truth: "docs/ARCHITECTURE.md"
 Repo Standard 적용 후 목표 폴더 구조 (추적 대상 파일 기준, `__pycache__` 등 임시 파일 전면 배제):
 
 ### 3.1. 루트 추적 및 설정 파일 (Tracked Root & App Config Files)
-- `"2026154001_\354\240\225\354\232\251\354\204\235_lab4_1_regression_activation_and_loss.ipynb"`
-- `"2026154001_\354\240\225\354\232\251\354\204\235_lab4_2_classification_activation_and_loss.ipynb"`
-- `"2026154001_\354\240\225\354\232\251\354\204\235_lab4_3_challenging_problems.ipynb"`
-- `"2026154001_\354\240\225\354\232\251\354\204\235_lab4_4_techniques_for_challenging_problems.ipynb"`
 - `.gitignore`
 - `AGENTS.md`
 - `ARCHITECTURE.md`
@@ -55,10 +51,10 @@ Repo Standard 적용 후 목표 폴더 구조 (추적 대상 파일 기준, `__p
 - `GEMINI.md`
 - `README.md`
 - `RULES.md`
-- `lab4_1_regression_activation_and_loss.ipynb`
-- `lab4_2_classification_activation_and_loss.ipynb`
-- `lab4_3_challenging_problems.ipynb`
-- `lab4_4_techniques_for_challenging_problems.ipynb`
+- `src/notebooks/lab4-1-regression-activation-and-loss.ipynb`
+- `src/notebooks/lab4-2-classification-activation-and-loss.ipynb`
+- `src/notebooks/lab4-3-challenging-problems.ipynb`
+- `src/notebooks/lab4-4-techniques-for-challenging-problems.ipynb`
 - `rag-manifest.json`
 
 ### 3.2. 디렉토리 구조 (Directory Tree)
@@ -125,5 +121,5 @@ manufacturing-ai-week4/
 ### 8.4. 빌드 및 테스트 검증 명령어 (Build/Test Verification Commands)
 재구성 전/후 무결성 검증을 위해 아래 명령어를 수행합니다:
 ```bash
-python3 -c "import json; [json.load(open(f)) for f in ['lab4_1_regression_activation_and_loss.ipynb']]"
+python3 -c "import json; [json.load(open(f)) for f in ['src/notebooks/lab4-1-regression-activation-and-loss.ipynb']]"
 ```
