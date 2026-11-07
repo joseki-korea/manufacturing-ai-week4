@@ -2,125 +2,304 @@
   "manifest_version": "1.0.0",
   "repo": "joseki-korea/manufacturing-ai-week4",
   "updated": "2026-11-07",
-  "docs": [
+  "documents": [
+    {
+      "path": "assets/README.md",
+      "id": "manufacturing-ai-week4/assets/README.md",
+      "title": "assets Directory Index",
+      "doc_type": "readme",
+      "tags": [
+        "index",
+        "assets",
+        "manufacturing-ai-week4"
+      ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "5e7889ab"
+    },
+    {
+      "path": "assets/binaries/README.md",
+      "id": "manufacturing-ai-week4/assets/binaries/README.md",
+      "title": "Binaries Asset Index and Google Drive Integration",
+      "doc_type": "asset-index",
+      "tags": [
+        "assets",
+        "binaries",
+        "google-drive"
+      ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "f08b0b5f"
+    },
+    {
+      "path": "assets/components/README.md",
+      "id": "manufacturing-ai-week4/assets/components/README.md",
+      "title": "Assets Components Index",
+      "doc_type": "asset-index",
+      "tags": [
+        "assets",
+        "components"
+      ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "11e511d9"
+    },
+    {
+      "path": "assets/images/README.md",
+      "id": "manufacturing-ai-week4/assets/images/README.md",
+      "title": "Images Asset Index and Google Drive Integration",
+      "doc_type": "asset-index",
+      "tags": [
+        "assets",
+        "images",
+        "google-drive"
+      ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "b6836ad1"
+    },
+    {
+      "path": "assets/src/README.md",
+      "id": "manufacturing-ai-week4/assets/src/README.md",
+      "title": "Assets Src Index",
+      "doc_type": "asset-index",
+      "tags": [
+        "assets",
+        "src"
+      ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "93618e20"
+    },
+    {
+      "path": "assets/videos/README.md",
+      "id": "manufacturing-ai-week4/assets/videos/README.md",
+      "title": "Videos Asset Index and Google Drive Integration",
+      "doc_type": "asset-index",
+      "tags": [
+        "assets",
+        "videos",
+        "google-drive"
+      ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "56bc2aab"
+    },
     {
       "path": "docs/ARCHITECTURE.md",
       "id": "manufacturing-ai-week4/docs/ARCHITECTURE.md",
+      "title": "Repository Architecture and Current->Target Migration Plan",
       "doc_type": "architecture",
       "tags": [
         "architecture",
-        "manufacturing-ai-week4"
+        "current-target-tree",
+        "migration-plan"
       ],
+      "status": "DRAFT",
       "updated": "2026-11-07",
-      "sha8": "d8e2e6b7"
+      "sha8": "e789588d"
     },
     {
       "path": "docs/README.md",
       "id": "manufacturing-ai-week4/docs/README.md",
+      "title": "docs Directory Index",
       "doc_type": "readme",
       "tags": [
-        "readme",
+        "index",
+        "docs",
         "manufacturing-ai-week4"
       ],
+      "status": "DRAFT",
       "updated": "2026-11-07",
       "sha8": "0d4d5682"
     },
     {
       "path": "docs/ROLES.md",
       "id": "manufacturing-ai-week4/docs/ROLES.md",
+      "title": "Operational Roles and Multi-Agent Responsibilities",
       "doc_type": "roles",
       "tags": [
         "roles",
-        "manufacturing-ai-week4"
+        "multi-agent"
       ],
+      "status": "DRAFT",
       "updated": "2026-11-07",
       "sha8": "0f205277"
     },
     {
       "path": "docs/RULES.md",
       "id": "manufacturing-ai-week4/docs/RULES.md",
+      "title": "Repository Rules",
       "doc_type": "rules",
       "tags": [
         "rules",
-        "manufacturing-ai-week4"
+        "governance"
       ],
+      "status": "DRAFT",
       "updated": "2026-11-07",
       "sha8": "395f8601"
     },
     {
+      "path": "handoffs/README.md",
+      "id": "manufacturing-ai-week4/handoffs/README.md",
+      "title": "Agent Session Handoff Notes Index",
+      "doc_type": "handoff",
+      "tags": [
+        "handoff",
+        "session-notes"
+      ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "323fba8f"
+    }
+  ],
+  "docs": [
+    {
       "path": "assets/README.md",
       "id": "manufacturing-ai-week4/assets/README.md",
+      "title": "assets Directory Index",
       "doc_type": "readme",
       "tags": [
-        "readme",
+        "index",
+        "assets",
         "manufacturing-ai-week4"
       ],
+      "status": "DRAFT",
       "updated": "2026-11-07",
       "sha8": "5e7889ab"
     },
     {
-      "path": "assets/images/README.md",
-      "id": "manufacturing-ai-week4/assets/images/README.md",
-      "doc_type": "asset-index",
-      "tags": [
-        "asset-index",
-        "manufacturing-ai-week4"
-      ],
-      "updated": "2026-11-07",
-      "sha8": "b6836ad1"
-    },
-    {
-      "path": "assets/components/README.md",
-      "id": "manufacturing-ai-week4/assets/components/README.md",
-      "doc_type": "asset-index",
-      "tags": [
-        "asset-index",
-        "manufacturing-ai-week4"
-      ],
-      "updated": "2026-11-07",
-      "sha8": "11e511d9"
-    },
-    {
-      "path": "assets/videos/README.md",
-      "id": "manufacturing-ai-week4/assets/videos/README.md",
-      "doc_type": "asset-index",
-      "tags": [
-        "asset-index",
-        "manufacturing-ai-week4"
-      ],
-      "updated": "2026-11-07",
-      "sha8": "56bc2aab"
-    },
-    {
       "path": "assets/binaries/README.md",
       "id": "manufacturing-ai-week4/assets/binaries/README.md",
+      "title": "Binaries Asset Index and Google Drive Integration",
       "doc_type": "asset-index",
       "tags": [
-        "asset-index",
-        "manufacturing-ai-week4"
+        "assets",
+        "binaries",
+        "google-drive"
       ],
+      "status": "DRAFT",
       "updated": "2026-11-07",
       "sha8": "f08b0b5f"
     },
     {
-      "path": "assets/src/README.md",
-      "id": "manufacturing-ai-week4/assets/src/README.md",
+      "path": "assets/components/README.md",
+      "id": "manufacturing-ai-week4/assets/components/README.md",
+      "title": "Assets Components Index",
       "doc_type": "asset-index",
       "tags": [
-        "asset-index",
-        "manufacturing-ai-week4"
+        "assets",
+        "components"
       ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "11e511d9"
+    },
+    {
+      "path": "assets/images/README.md",
+      "id": "manufacturing-ai-week4/assets/images/README.md",
+      "title": "Images Asset Index and Google Drive Integration",
+      "doc_type": "asset-index",
+      "tags": [
+        "assets",
+        "images",
+        "google-drive"
+      ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "b6836ad1"
+    },
+    {
+      "path": "assets/src/README.md",
+      "id": "manufacturing-ai-week4/assets/src/README.md",
+      "title": "Assets Src Index",
+      "doc_type": "asset-index",
+      "tags": [
+        "assets",
+        "src"
+      ],
+      "status": "DRAFT",
       "updated": "2026-11-07",
       "sha8": "93618e20"
     },
     {
+      "path": "assets/videos/README.md",
+      "id": "manufacturing-ai-week4/assets/videos/README.md",
+      "title": "Videos Asset Index and Google Drive Integration",
+      "doc_type": "asset-index",
+      "tags": [
+        "assets",
+        "videos",
+        "google-drive"
+      ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "56bc2aab"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "id": "manufacturing-ai-week4/docs/ARCHITECTURE.md",
+      "title": "Repository Architecture and Current->Target Migration Plan",
+      "doc_type": "architecture",
+      "tags": [
+        "architecture",
+        "current-target-tree",
+        "migration-plan"
+      ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "e789588d"
+    },
+    {
+      "path": "docs/README.md",
+      "id": "manufacturing-ai-week4/docs/README.md",
+      "title": "docs Directory Index",
+      "doc_type": "readme",
+      "tags": [
+        "index",
+        "docs",
+        "manufacturing-ai-week4"
+      ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "0d4d5682"
+    },
+    {
+      "path": "docs/ROLES.md",
+      "id": "manufacturing-ai-week4/docs/ROLES.md",
+      "title": "Operational Roles and Multi-Agent Responsibilities",
+      "doc_type": "roles",
+      "tags": [
+        "roles",
+        "multi-agent"
+      ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "0f205277"
+    },
+    {
+      "path": "docs/RULES.md",
+      "id": "manufacturing-ai-week4/docs/RULES.md",
+      "title": "Repository Rules",
+      "doc_type": "rules",
+      "tags": [
+        "rules",
+        "governance"
+      ],
+      "status": "DRAFT",
+      "updated": "2026-11-07",
+      "sha8": "395f8601"
+    },
+    {
       "path": "handoffs/README.md",
       "id": "manufacturing-ai-week4/handoffs/README.md",
+      "title": "Agent Session Handoff Notes Index",
       "doc_type": "handoff",
       "tags": [
         "handoff",
-        "manufacturing-ai-week4"
+        "session-notes"
       ],
+      "status": "DRAFT",
       "updated": "2026-11-07",
       "sha8": "323fba8f"
     }
@@ -137,5 +316,11 @@
     "build",
     ".cache",
     "__pycache__"
+  ],
+  "excluded": [
+    {
+      "path": "README.md",
+      "reason": "PII-pre-existing (pre-existing student author/ID data retained in course repo)"
+    }
   ]
 }

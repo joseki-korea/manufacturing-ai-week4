@@ -27,10 +27,10 @@ source_of_truth: "docs/ARCHITECTURE.md"
 기본 브랜치 기준 기존 루트 파일 및 폴더 구조:
 
 ### 2.1. 루트 추적 파일 (Tracked Root Files)
-- `2026154001_정용석_lab4_1_regression_activation_and_loss.ipynb`
-- `2026154001_정용석_lab4_2_classification_activation_and_loss.ipynb`
-- `2026154001_정용석_lab4_3_challenging_problems.ipynb`
-- `2026154001_정용석_lab4_4_techniques_for_challenging_problems.ipynb`
+- `student_submission_lab4_1_regression_activation_and_loss.ipynb`
+- `student_submission_lab4_2_classification_activation_and_loss.ipynb`
+- `student_submission_lab4_3_challenging_problems.ipynb`
+- `student_submission_lab4_4_techniques_for_challenging_problems.ipynb`
 - `README.md`
 - `lab4_1_regression_activation_and_loss.ipynb`
 - `lab4_2_classification_activation_and_loss.ipynb`
@@ -45,10 +45,10 @@ Repo Standard 적용 후 목표 폴더 구조 (추적 대상 파일 기준, `__p
 
 ### 3.1. 루트 추적 및 설정 파일 (Tracked Root & App Config Files)
 - `.gitignore`
-- `2026154001_정용석_lab4_1_regression_activation_and_loss.ipynb`
-- `2026154001_정용석_lab4_2_classification_activation_and_loss.ipynb`
-- `2026154001_정용석_lab4_3_challenging_problems.ipynb`
-- `2026154001_정용석_lab4_4_techniques_for_challenging_problems.ipynb`
+- `student_submission_lab4_1_regression_activation_and_loss.ipynb`
+- `student_submission_lab4_2_classification_activation_and_loss.ipynb`
+- `student_submission_lab4_3_challenging_problems.ipynb`
+- `student_submission_lab4_4_techniques_for_challenging_problems.ipynb`
 - `README.md`
 - `lab4_1_regression_activation_and_loss.ipynb`
 - `lab4_2_classification_activation_and_loss.ipynb`
