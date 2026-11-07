@@ -44,12 +44,17 @@ source_of_truth: "docs/ARCHITECTURE.md"
 Repo Standard 적용 후 목표 폴더 구조 (추적 대상 파일 기준, `__pycache__` 등 임시 파일 전면 배제):
 
 ### 3.1. 루트 추적 및 설정 파일 (Tracked Root & App Config Files)
+- `"2026154001_\354\240\225\354\232\251\354\204\235_lab4_1_regression_activation_and_loss.ipynb"`
+- `"2026154001_\354\240\225\354\232\251\354\204\235_lab4_2_classification_activation_and_loss.ipynb"`
+- `"2026154001_\354\240\225\354\232\251\354\204\235_lab4_3_challenging_problems.ipynb"`
+- `"2026154001_\354\240\225\354\232\251\354\204\235_lab4_4_techniques_for_challenging_problems.ipynb"`
 - `.gitignore`
-- `student_submission_lab4_1_regression_activation_and_loss.ipynb`
-- `student_submission_lab4_2_classification_activation_and_loss.ipynb`
-- `student_submission_lab4_3_challenging_problems.ipynb`
-- `student_submission_lab4_4_techniques_for_challenging_problems.ipynb`
+- `AGENTS.md`
+- `ARCHITECTURE.md`
+- `CLAUDE.md`
+- `GEMINI.md`
 - `README.md`
+- `RULES.md`
 - `lab4_1_regression_activation_and_loss.ipynb`
 - `lab4_2_classification_activation_and_loss.ipynb`
 - `lab4_3_challenging_problems.ipynb`
@@ -91,3 +96,34 @@ Repo Standard 적용 후 목표 폴더 구조 (추적 대상 파일 기준, `__p
 
 ## 7. 설계 승인 원칙 (Design PASS Rule)
 CEO 지침에 따라 본 설계 문서가 리뷰어의 최종 PASS 승인을 받기 전까지는 **일체의 파일 이동(`git mv`)이 엄격히 금지**됩니다.
+
+## 8. 시맨틱 재구성 설계 (Semantic Reorganization Design — DESIGN ONLY)
+
+CEO c159 지시 및 Addendum 6에 따른 에셋 및 소스코드 시맨틱 재구성 목표 설계입니다.
+> **경고**: 본 재구성은 **사전 설계 단계(DESIGN ONLY)**이며, 리뷰어의 최종 PASS 승인 전까지 **실제 `git mv` 실행은 일절 진행되지 않습니다(0 moves executed)**.
+
+### 8.1. 목표 시맨틱 구조 (Target Semantic Layout)
+```text
+manufacturing-ai-week4/
+├── assets/
+│   ├── images/              # 대시보드 및 제품 이미지 (Drive 연동)
+│   ├── ui-components/       # UI/UX CSS 스타일시트 및 재사용 컴포넌트
+│   ├── binaries/            # 데이터 세트 및 바이너리
+│   └── videos/              # 시연 및 튜토리얼 비디오 (Drive 연동)
+├── src/                     # 모듈별 소스코드 구조
+├── CLAUDE.md / AGENTS.md / GEMINI.md  # 에이전트 진입점
+├── ARCHITECTURE.md / RULES.md         # 레포 전역 거버넌스 포인터
+└── docs/                    # 상세 표준 문서
+```
+
+### 8.2. 시맨틱 이동 계획 테이블 (Semantic Move Plan Table)
+상세 자산 매핑 및 시맨틱 이동 계획 테이블은 👉 **[docs/ASSET-MAP.md](ASSET-MAP.md)** 아티팩트를 참조하십시오.
+
+### 8.3. 참조 갱신 계획 (Reference-Update Plan)
+- README 내 실습 노트북 상대 경로 동기화
+
+### 8.4. 빌드 및 테스트 검증 명령어 (Build/Test Verification Commands)
+재구성 전/후 무결성 검증을 위해 아래 명령어를 수행합니다:
+```bash
+python3 -c "import json; [json.load(open(f)) for f in ['lab4_1_regression_activation_and_loss.ipynb']]"
+```
