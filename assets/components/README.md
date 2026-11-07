@@ -11,7 +11,6 @@ status: DRAFT
 updated: '2026-11-07'
 source_of_truth: assets/components/README.md
 ---
-
 # Assets: Components — manufacturing-ai-week4
 
 본 디렉토리는 `joseki-korea/manufacturing-ai-week4` 프로젝트의 재사용 가능한 컴포넌트 에셋을 보관합니다.

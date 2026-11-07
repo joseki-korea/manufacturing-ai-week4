@@ -11,7 +11,6 @@ status: DRAFT
 updated: '2026-11-07'
 source_of_truth: docs/ARCHITECTURE.md
 ---
-
 # Repository Architecture — manufacturing-ai-week4
 
 본 문서는 `joseki-korea/manufacturing-ai-week4` 레포지토리의 파일/디렉토리 구조 및 구성 목적을 설명합니다.
@@ -40,7 +39,10 @@ manufacturing-ai-week4/
 ```
 
 ### 주요 폴더 설명
-- 루트 디렉토리 기반 단일 구조
-- `docs/`: 표준 거버넌스 및 시스템 아키텍처 문서 저장.
-- `handoffs/`: 에이전트 간 세션 인수인계 파일 저장.
-- `assets/`: 프로젝트에서 활용되는 참조 에셋 및 컴포넌트 저장.
+- `assets/`: 0 files
+- `assets/binaries/`: 2 files
+- `assets/components/`: 1 files
+- `assets/images/`: 2 files
+- `assets/src/`: 1 files
+- `docs/`: 3 files
+- `handoffs/`: 1 files

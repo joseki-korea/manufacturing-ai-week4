@@ -11,7 +11,6 @@ status: DRAFT
 updated: '2026-11-07'
 source_of_truth: docs/RULES.md
 ---
-
 # Repository Rules — manufacturing-ai-week4
 
 본 문서는 `joseki-korea/manufacturing-ai-week4` 레포지토리의 작업 수칙 및 AI 에이전트 협업 규칙을 정의합니다.

@@ -11,7 +11,6 @@ status: DRAFT
 updated: '2026-11-07'
 source_of_truth: assets/src/README.md
 ---
-
 # Assets: Src — manufacturing-ai-week4
 
 본 디렉토리는 `joseki-korea/manufacturing-ai-week4` 프로젝트의 참조 소스코드 스니펫 및 코드 에셋을 보관합니다.

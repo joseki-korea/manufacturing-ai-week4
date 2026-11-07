@@ -1,0 +1,7 @@
+# Assets Drive sync ignores (Addendum 2)
+/assets/images/*
+!/assets/images/README.md
+!/assets/images/drive-manifest.json
+/assets/binaries/*
+!/assets/binaries/README.md
+!/assets/binaries/drive-manifest.json

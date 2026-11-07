@@ -11,7 +11,6 @@ status: DRAFT
 updated: '2026-11-07'
 source_of_truth: docs/ROLES.md
 ---
-
 # Operational Roles — manufacturing-ai-week4
 
 본 문서는 `joseki-korea/manufacturing-ai-week4` 프로젝트를 수행하는 멀티에이전트 협업 체계의 역할을 정의합니다.

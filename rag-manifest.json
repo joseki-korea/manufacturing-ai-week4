@@ -12,7 +12,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "744b75c6"
+      "sha8": "1659451d"
     },
     {
       "path": "docs/ROLES.md",
@@ -23,7 +23,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "7cf0658e"
+      "sha8": "e6d027cc"
     },
     {
       "path": "docs/RULES.md",
@@ -34,7 +34,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "cf88ca92"
+      "sha8": "b33b2946"
     },
     {
       "path": "assets/images/README.md",
@@ -45,7 +45,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "1fb1d166"
+      "sha8": "66fac341"
     },
     {
       "path": "assets/components/README.md",
@@ -56,7 +56,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "7d1f19cd"
+      "sha8": "7394ade5"
     },
     {
       "path": "assets/binaries/README.md",
@@ -67,7 +67,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "1e09cb9a"
+      "sha8": "3050449e"
     },
     {
       "path": "assets/src/README.md",
@@ -78,7 +78,7 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "26ce2532"
+      "sha8": "0facc4fd"
     },
     {
       "path": "handoffs/README.md",
@@ -89,11 +89,12 @@
         "manufacturing-ai-week4"
       ],
       "updated": "2026-11-07",
-      "sha8": "1ae743ce"
+      "sha8": "03fc1fe4"
     }
   ],
   "excluded_paths": [
-    "assets/binaries",
+    "assets/images/*",
+    "assets/binaries/*",
     ".env*",
     "node_modules",
     ".git",

@@ -1,24 +1,27 @@
 ---
 id: manufacturing-ai-week4/assets/images/README.md
-title: Assets Images Index
+title: Images Asset Index and Google Drive Integration
 repo: joseki-korea/manufacturing-ai-week4
 device_scope: all
 doc_type: asset-index
 tags:
   - assets
   - images
+  - google-drive
 status: DRAFT
 updated: '2026-11-07'
 source_of_truth: assets/images/README.md
 ---
+# Images Asset Index — manufacturing-ai-week4
 
-# Assets: Images — manufacturing-ai-week4
+본 디렉토리는 `joseki-korea/manufacturing-ai-week4` 프로젝트에서 사용되는 이미지 자산(스크린샷, 다이어그램, UI 에셋 등)을 관리하며, Google Drive와 연동됩니다.
 
-본 디렉토리는 `joseki-korea/manufacturing-ai-week4` 프로젝트의 이미지 에셋 자산 (다이어그램, 스크린샷 등)을 보관합니다.
+## 1. 목적 및 연동 원칙
+- **소스코드-깃허브 / 이미지-구글드라이브 연동**: 신규 이미지는 Git 저장소 용량 과적 방지를 위해 Google Drive 동기화 폴더로 연동 관리합니다.
+- **Drive 경로**: `Orca 자산/manufacturing-ai-week4/images`
+- **동기화 주체**: 로그인 컨텍스트 카드 기준 Google Drive 활성 로그인 단말 (`GQFK` JM_Global / `indiasolucionemos@gmail.com` 등 활성 계정 단말).
+- **동기화 대상**: 신규 추가 파일 전용 (New files only).
 
-## 1. 목적 및 저장 대상
-- 이미지 에셋 자산 (다이어그램, 스크린샷 등) 저장 및 RAG 색인 연계.
-
-## 2. 금지 사항
-- 기밀 키, 토큰, 비밀번호, 개인정보 파일 저장 금지.
-- Git 저장소 용량을 초과하는 대용량 바이너리 직접 커밋 금지.
+## 2. 매니페스트 관리
+- 로컬 이미지 파일 목록 및 동기화 상태는 `drive-manifest.json`에 기록됩니다.
+- Git 트래킹 제외 규칙은 `.gitignore`에 정의되어 있으며, `README.md` 및 `drive-manifest.json`만 Git에 커밋됩니다.

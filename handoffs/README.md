@@ -11,7 +11,6 @@ status: DRAFT
 updated: '2026-11-07'
 source_of_truth: handoffs/README.md
 ---
-
 # Agent Session Handoff Notes — manufacturing-ai-week4
 
 본 디렉토리는 AI 에이전트 세션 간의 인수인계 기록을 보관합니다.
@@ -24,7 +23,7 @@ source_of_truth: handoffs/README.md
 ## 2. 인수인계 템플릿 Frontmatter
 ```yaml
 ---
-id: manufacturing-ai-week4/handoffs/YYYY-MM-DD-<session-id>.md
+id: "manufacturing-ai-week4/handoffs/YYYY-MM-DD-session-id.md"
 title: Session Handoff YYYY-MM-DD
 repo: joseki-korea/manufacturing-ai-week4
 device_scope: all
