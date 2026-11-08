@@ -1,0 +1,103 @@
+{"heading": "Codex Terra Agent Guidelines — manufacturing-ai-week4", "id": "170fe52168f800d0", "lang": "und", "path": "AGENTS.md", "sensitivity": "internal", "sha8": "5eb2eaa7", "tags": []}
+{"heading": "1. 역할 범위: Worker Session (작업 세션)", "id": "2127fd061607e8be", "lang": "und", "path": "AGENTS.md", "sensitivity": "internal", "sha8": "5eb2eaa7", "tags": []}
+{"heading": "2. 운영 지침", "id": "105ccad9c522e9dc", "lang": "und", "path": "AGENTS.md", "sensitivity": "internal", "sha8": "5eb2eaa7", "tags": []}
+{"heading": "Repository Architecture — manufacturing-ai-week4", "id": "90a69eeee4c373f6", "lang": "und", "path": "ARCHITECTURE.md", "sensitivity": "internal", "sha8": "14f27c43", "tags": []}
+{"heading": "1. 아키텍처 요약", "id": "186d30da0fa286d1", "lang": "und", "path": "ARCHITECTURE.md", "sensitivity": "internal", "sha8": "14f27c43", "tags": []}
+{"heading": "2. 정본 문서 안내", "id": "60c6d7a4cc26af61", "lang": "und", "path": "ARCHITECTURE.md", "sensitivity": "internal", "sha8": "14f27c43", "tags": []}
+{"heading": "Claude Agent Guidelines — manufacturing-ai-week4", "id": "20d1e5a084ac706f", "lang": "und", "path": "CLAUDE.md", "sensitivity": "internal", "sha8": "3bd86728", "tags": []}
+{"heading": "1. 역할 범위: Control & Monitoring ONLY", "id": "a5afdd262315bcb5", "lang": "und", "path": "CLAUDE.md", "sensitivity": "internal", "sha8": "3bd86728", "tags": []}
+{"heading": "2. 작업 위임 지침", "id": "21dd26c2b1ac3038", "lang": "und", "path": "CLAUDE.md", "sensitivity": "internal", "sha8": "3bd86728", "tags": []}
+{"heading": "Antigravity Agent Guidelines — manufacturing-ai-week4", "id": "7229789e9d8afb2c", "lang": "und", "path": "GEMINI.md", "sensitivity": "internal", "sha8": "dfce6efb", "tags": []}
+{"heading": "1. 역할 범위: Worker Session (작업 세션)", "id": "ad658f8a76471c4e", "lang": "und", "path": "GEMINI.md", "sensitivity": "internal", "sha8": "dfce6efb", "tags": []}
+{"heading": "2. 운영 지침", "id": "87306e701ef967b1", "lang": "und", "path": "GEMINI.md", "sensitivity": "internal", "sha8": "dfce6efb", "tags": []}
+{"heading": "RAG ingestion", "id": "9e489cc940246fc0", "lang": "und", "path": "RAG.md", "sensitivity": "internal", "sha8": "74881066", "tags": []}
+{"heading": "LLM wiki", "id": "a6a152c9a0d40b38", "lang": "und", "path": "RAG.md", "sensitivity": "internal", "sha8": "74881066", "tags": []}
+{"heading": "Repository Global Rules — manufacturing-ai-week4", "id": "0a9b4c872fb8a34f", "lang": "und", "path": "RULES.md", "sensitivity": "internal", "sha8": "44ad77d3", "tags": []}
+{"heading": "1. 핵심 전역 규칙 요약", "id": "4c223d048c71131d", "lang": "und", "path": "RULES.md", "sensitivity": "internal", "sha8": "44ad77d3", "tags": []}
+{"heading": "2. 정본 문서 안내", "id": "162600404646627e", "lang": "und", "path": "RULES.md", "sensitivity": "internal", "sha8": "44ad77d3", "tags": []}
+{"heading": "assets Directory", "id": "f63813e618e28c07", "lang": "und", "path": "assets/README.md", "sensitivity": "internal", "sha8": "5e7889ab", "tags": []}
+{"heading": "1. 주요 역할 및 개요", "id": "4ccdba5af2002fd7", "lang": "und", "path": "assets/README.md", "sensitivity": "internal", "sha8": "5e7889ab", "tags": []}
+{"heading": "2. 주요 파일 목록", "id": "fecacbf052436a3a", "lang": "und", "path": "assets/README.md", "sensitivity": "internal", "sha8": "5e7889ab", "tags": []}
+{"heading": "Binaries Asset Index — manufacturing-ai-week4", "id": "ff96e4fe1fd11ff0", "lang": "und", "path": "assets/binaries/README.md", "sensitivity": "internal", "sha8": "f08b0b5f", "tags": []}
+{"heading": "1. 목적 및 연동 원칙", "id": "0d7035f1c3dbef0e", "lang": "und", "path": "assets/binaries/README.md", "sensitivity": "internal", "sha8": "f08b0b5f", "tags": []}
+{"heading": "2. 매니페스트 관리", "id": "3c412c09f75b0da9", "lang": "und", "path": "assets/binaries/README.md", "sensitivity": "internal", "sha8": "f08b0b5f", "tags": []}
+{"heading": "Assets: Components — manufacturing-ai-week4", "id": "4eb78ceac52e3a40", "lang": "und", "path": "assets/components/README.md", "sensitivity": "internal", "sha8": "11e511d9", "tags": []}
+{"heading": "1. 목적 및 저장 대상", "id": "39a82936edb6d56a", "lang": "und", "path": "assets/components/README.md", "sensitivity": "internal", "sha8": "11e511d9", "tags": []}
+{"heading": "2. 금지 사항", "id": "32380cc5002fb1b3", "lang": "und", "path": "assets/components/README.md", "sensitivity": "internal", "sha8": "11e511d9", "tags": []}
+{"heading": "Images Asset Index — manufacturing-ai-week4", "id": "a04a5b56ea3c0505", "lang": "und", "path": "assets/images/README.md", "sensitivity": "internal", "sha8": "b6836ad1", "tags": []}
+{"heading": "1. 목적 및 연동 원칙", "id": "e9bade07234e0442", "lang": "und", "path": "assets/images/README.md", "sensitivity": "internal", "sha8": "b6836ad1", "tags": []}
+{"heading": "2. 매니페스트 관리", "id": "90d9a7770136044a", "lang": "und", "path": "assets/images/README.md", "sensitivity": "internal", "sha8": "b6836ad1", "tags": []}
+{"heading": "Assets: Src — manufacturing-ai-week4", "id": "585936201580231b", "lang": "und", "path": "assets/src/README.md", "sensitivity": "internal", "sha8": "93618e20", "tags": []}
+{"heading": "1. 목적 및 저장 대상", "id": "75920f2fe6f0dedb", "lang": "und", "path": "assets/src/README.md", "sensitivity": "internal", "sha8": "93618e20", "tags": []}
+{"heading": "2. 금지 사항", "id": "9a045e51d5256b34", "lang": "und", "path": "assets/src/README.md", "sensitivity": "internal", "sha8": "93618e20", "tags": []}
+{"heading": "Videos Asset Index — manufacturing-ai-week4", "id": "705b050b785a97d6", "lang": "und", "path": "assets/videos/README.md", "sensitivity": "internal", "sha8": "56bc2aab", "tags": []}
+{"heading": "1. 목적 및 연동 원칙", "id": "627b8d675f70c20e", "lang": "und", "path": "assets/videos/README.md", "sensitivity": "internal", "sha8": "56bc2aab", "tags": []}
+{"heading": "2. 매니페스트 관리", "id": "147ad48319b01df8", "lang": "und", "path": "assets/videos/README.md", "sensitivity": "internal", "sha8": "56bc2aab", "tags": []}
+{"heading": "Repository Architecture — manufacturing-ai-week4", "id": "6bfea1b3fc20bce0", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "1. 프로젝트 개요", "id": "1aee70cc1b49f74f", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "2. CURRENT 트리 (기본 브랜치 `origin/main`, depth ≤ 3)", "id": "04b620734f0f271a", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "2.1. 루트 추적 파일 (Tracked Root Files)", "id": "4f7ae1e0042e8342", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "2.2. 디렉토리 구조 (Directory Tree)", "id": "4bd8a53234537049", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "3. TARGET 트리 (목표 아키텍처 폴더 구조, depth ≤ 3)", "id": "a29a962e0cc21263", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "3.1. 루트 추적 및 설정 파일 (Tracked Root & App Config Files)", "id": "cb2e32f8f6449e22", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "3.2. 디렉토리 구조 (Directory Tree)", "id": "a36b995a18c59952", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "4. Current → Target 매핑 테이블", "id": "75f0aedec24b791e", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "5. 이동 안정성 검증 (Move-Safety Check & Grep Evidence)", "id": "88664ec53f779943", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "6. 마이그레이션 절차 및 롤백 계획 (Migration Steps & Rollback)", "id": "a40b8fc54a279b13", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "6.1. 마이그레이션 실행 절차", "id": "283ebf013860b9f2", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "6.2. 롤백 계획", "id": "e418a445e509f0c5", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "7. 설계 승인 원칙 (Design PASS Rule)", "id": "885a8a2beecf3a94", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "8. 시맨틱 재구성 설계 (Semantic Reorganization Design — DESIGN ONLY)", "id": "bb9133952fbe83cc", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "8.1. 목표 시맨틱 구조 (Target Semantic Layout)", "id": "0086dfd1b38f4cf3", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "8.2. 시맨틱 이동 계획 테이블 (Semantic Move Plan Table)", "id": "97f33e35b4502b41", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "8.3. 참조 갱신 계획 (Reference-Update Plan)", "id": "c70242602fca6b13", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "8.4. 빌드 및 테스트 검증 명령어 (Build/Test Verification Commands)", "id": "80370e3f7703837b", "lang": "und", "path": "docs/ARCHITECTURE.md", "sensitivity": "internal", "sha8": "4d857b1d", "tags": []}
+{"heading": "Asset move record", "id": "30de3dfe05440478", "lang": "und", "path": "docs/ASSET-MAP.md", "sensitivity": "internal", "sha8": "f7cd2f2f", "tags": []}
+{"heading": "docs Directory", "id": "c0ac08d8a06ffb48", "lang": "und", "path": "docs/README.md", "sensitivity": "internal", "sha8": "0d4d5682", "tags": []}
+{"heading": "1. 주요 역할 및 개요", "id": "5b690c362e4c3710", "lang": "und", "path": "docs/README.md", "sensitivity": "internal", "sha8": "0d4d5682", "tags": []}
+{"heading": "2. 주요 파일 목록", "id": "2bfe2a7ff6ac5a4b", "lang": "und", "path": "docs/README.md", "sensitivity": "internal", "sha8": "0d4d5682", "tags": []}
+{"heading": "Operational Roles — manufacturing-ai-week4", "id": "0c964589fc384cbb", "lang": "und", "path": "docs/ROLES.md", "sensitivity": "internal", "sha8": "0f205277", "tags": []}
+{"heading": "1. 컨트롤 및 모니터링 세션 (Control & Monitoring Session — Claude Only)", "id": "199cdf786c4fb611", "lang": "und", "path": "docs/ROLES.md", "sensitivity": "internal", "sha8": "0f205277", "tags": []}
+{"heading": "2. 작업 세션 (Worker Sessions — Codex Terra & Antigravity Only)", "id": "a720b3f2e858b8d0", "lang": "und", "path": "docs/ROLES.md", "sensitivity": "internal", "sha8": "0f205277", "tags": []}
+{"heading": "3. 재니터 세션 (Janitor Session)", "id": "de7546938c25a189", "lang": "und", "path": "docs/ROLES.md", "sensitivity": "internal", "sha8": "0f205277", "tags": []}
+{"heading": "Repository Rules — manufacturing-ai-week4", "id": "a3403e1949c91d83", "lang": "und", "path": "docs/RULES.md", "sensitivity": "internal", "sha8": "395f8601", "tags": []}
+{"heading": "1. 상위 거버넌스 준수 (Canonical Rules)", "id": "a8e7649d7da0d137", "lang": "und", "path": "docs/RULES.md", "sensitivity": "internal", "sha8": "395f8601", "tags": []}
+{"heading": "2. 레포지토리 운영 수칙 (Branch & PR Policy)", "id": "d011b0f38d487626", "lang": "und", "path": "docs/RULES.md", "sensitivity": "internal", "sha8": "395f8601", "tags": []}
+{"heading": "3. 보안 및 기밀 보호", "id": "9f6e4271b7155ffb", "lang": "und", "path": "docs/RULES.md", "sensitivity": "internal", "sha8": "395f8601", "tags": []}
+{"heading": "4. 컨텍스트 과적 방지 (Context Management)", "id": "f893f48500f277db", "lang": "und", "path": "docs/RULES.md", "sensitivity": "internal", "sha8": "395f8601", "tags": []}
+{"heading": "Agent Roles and Rules Index — manufacturing-ai-week4", "id": "49664d08fca4446f", "lang": "und", "path": "docs/agents/README.md", "sensitivity": "internal", "sha8": "2d60da0c", "tags": []}
+{"heading": "에이전트 문서 목록", "id": "ddfa07a8ab34fff5", "lang": "und", "path": "docs/agents/README.md", "sensitivity": "internal", "sha8": "2d60da0c", "tags": []}
+{"heading": "Antigravity Role Definition — manufacturing-ai-week4", "id": "8ed8a48d340deafb", "lang": "und", "path": "docs/agents/antigravity-role.md", "sensitivity": "internal", "sha8": "b9d45ad8", "tags": []}
+{"heading": "1. 역할 정의 (Role Overview)", "id": "cc0185befb1d594b", "lang": "und", "path": "docs/agents/antigravity-role.md", "sensitivity": "internal", "sha8": "b9d45ad8", "tags": []}
+{"heading": "2. 주요 책임 (Responsibilities)", "id": "153d1d163913b0ca", "lang": "und", "path": "docs/agents/antigravity-role.md", "sensitivity": "internal", "sha8": "b9d45ad8", "tags": []}
+{"heading": "3. 작업 규칙", "id": "0e858770db229fd2", "lang": "und", "path": "docs/agents/antigravity-role.md", "sensitivity": "internal", "sha8": "b9d45ad8", "tags": []}
+{"heading": "Antigravity Operational Rules — manufacturing-ai-week4", "id": "363a88c0d27bcf40", "lang": "und", "path": "docs/agents/antigravity-rules.md", "sensitivity": "internal", "sha8": "0c9da584", "tags": []}
+{"heading": "Claude Role Definition — manufacturing-ai-week4", "id": "c7f9278c8041f43e", "lang": "und", "path": "docs/agents/claude-role.md", "sensitivity": "internal", "sha8": "dcf38a33", "tags": []}
+{"heading": "1. 역할 정의 (Role Overview)", "id": "747421099b22295b", "lang": "und", "path": "docs/agents/claude-role.md", "sensitivity": "internal", "sha8": "dcf38a33", "tags": []}
+{"heading": "2. 주요 책임 (Responsibilities)", "id": "107f23b8130689c9", "lang": "und", "path": "docs/agents/claude-role.md", "sensitivity": "internal", "sha8": "dcf38a33", "tags": []}
+{"heading": "3. 권한 및 제약 (Boundary & Limits)", "id": "fc01d7c0e0fea924", "lang": "und", "path": "docs/agents/claude-role.md", "sensitivity": "internal", "sha8": "dcf38a33", "tags": []}
+{"heading": "Claude Operational Rules — manufacturing-ai-week4", "id": "f3b1f2752f3aee57", "lang": "und", "path": "docs/agents/claude-rules.md", "sensitivity": "internal", "sha8": "58aaa887", "tags": []}
+{"heading": "Codex Terra Role Definition — manufacturing-ai-week4", "id": "6cc8973b13bc21d5", "lang": "und", "path": "docs/agents/codex-role.md", "sensitivity": "internal", "sha8": "4b3a3f9c", "tags": []}
+{"heading": "1. 역할 정의 (Role Overview)", "id": "516ae46709504f1b", "lang": "und", "path": "docs/agents/codex-role.md", "sensitivity": "internal", "sha8": "4b3a3f9c", "tags": []}
+{"heading": "2. 주요 책임 (Responsibilities)", "id": "728c4a48f99c7967", "lang": "und", "path": "docs/agents/codex-role.md", "sensitivity": "internal", "sha8": "4b3a3f9c", "tags": []}
+{"heading": "3. 작업 규칙", "id": "ed94dbc0c4e66df0", "lang": "und", "path": "docs/agents/codex-role.md", "sensitivity": "internal", "sha8": "4b3a3f9c", "tags": []}
+{"heading": "Codex Terra Operational Rules — manufacturing-ai-week4", "id": "acd8c20556b33f33", "lang": "und", "path": "docs/agents/codex-rules.md", "sensitivity": "internal", "sha8": "820178cd", "tags": []}
+{"heading": "Wiki schema", "id": "fb2a55b8167a5ad4", "lang": "und", "path": "docs/wiki/SCHEMA.md", "sensitivity": "internal", "sha8": "7d0ea23f", "tags": []}
+{"heading": "Ingest", "id": "86414185b6ac4edf", "lang": "und", "path": "docs/wiki/SCHEMA.md", "sensitivity": "internal", "sha8": "7d0ea23f", "tags": []}
+{"heading": "Query", "id": "898cef5734604fb6", "lang": "und", "path": "docs/wiki/SCHEMA.md", "sensitivity": "internal", "sha8": "7d0ea23f", "tags": []}
+{"heading": "Lint", "id": "4d51e49e5d19e846", "lang": "und", "path": "docs/wiki/SCHEMA.md", "sensitivity": "internal", "sha8": "7d0ea23f", "tags": []}
+{"heading": "Page types", "id": "7e699ec3ee6be43f", "lang": "und", "path": "docs/wiki/SCHEMA.md", "sensitivity": "internal", "sha8": "7d0ea23f", "tags": []}
+{"heading": "Wiki index", "id": "6efd2ca3e68fa222", "lang": "und", "path": "docs/wiki/index.md", "sensitivity": "internal", "sha8": "3e68d017", "tags": []}
+{"heading": "Wiki log", "id": "381fc8118e32b8b8", "lang": "und", "path": "docs/wiki/log.md", "sensitivity": "internal", "sha8": "8f1fa8d5", "tags": []}
+{"heading": "[2026-11-08] ingest | initial repository sources", "id": "0b6a82708f829239", "lang": "und", "path": "docs/wiki/log.md", "sensitivity": "internal", "sha8": "8f1fa8d5", "tags": []}
+{"heading": "분류 활성화와 손실", "id": "84cba88890e4b3f3", "lang": "ko", "path": "docs/wiki/pages/concepts/classification.md", "sensitivity": "internal", "sha8": "7eb07e9e", "tags": ["wiki", "concepts"]}
+{"heading": "자주 묻는 질문", "id": "571af18ff3e4d1bc", "lang": "ko", "path": "docs/wiki/pages/faq.md", "sensitivity": "internal", "sha8": "44c99c9f", "tags": ["wiki", "faq"]}
+{"heading": "노트북 JSON 확인", "id": "cb479223599ff4d9", "lang": "ko", "path": "docs/wiki/pages/howto/notebook-check.md", "sensitivity": "internal", "sha8": "7431acab", "tags": ["wiki", "howto"]}
+{"heading": "지도학습 도전과제", "id": "3aa3d4733262d4a1", "lang": "ko", "path": "docs/wiki/pages/modules/challenging-problems.md", "sensitivity": "internal", "sha8": "d52671b4", "tags": ["wiki", "modules"]}
+{"heading": "분류 실습", "id": "cf4c5eed1fc0d5ae", "lang": "ko", "path": "docs/wiki/pages/modules/classification.md", "sensitivity": "internal", "sha8": "92c92b8b", "tags": ["wiki", "modules"]}
+{"heading": "회귀 실습", "id": "7fbc9887b6e7ef00", "lang": "ko", "path": "docs/wiki/pages/modules/regression.md", "sensitivity": "internal", "sha8": "cf16b220", "tags": ["wiki", "modules"]}
+{"heading": "도전과제 대응 기법", "id": "bbeb86d1af34787a", "lang": "ko", "path": "docs/wiki/pages/modules/techniques.md", "sensitivity": "internal", "sha8": "e9241bc8", "tags": ["wiki", "modules"]}
+{"heading": "제조 AI 실습 개요", "id": "d10df39b0e03dd2f", "lang": "ko", "path": "docs/wiki/pages/overview.md", "sensitivity": "internal", "sha8": "91417288", "tags": ["wiki", "overview"]}
+{"heading": "Agent Session Handoff Notes — manufacturing-ai-week4", "id": "9746a52ece5e086d", "lang": "und", "path": "handoffs/README.md", "sensitivity": "internal", "sha8": "323fba8f", "tags": []}
+{"heading": "1. 운영 원칙", "id": "0620bc72c35da398", "lang": "und", "path": "handoffs/README.md", "sensitivity": "internal", "sha8": "323fba8f", "tags": []}
+{"heading": "2. 인수인계 템플릿 Frontmatter", "id": "7214ad3a4b9580e8", "lang": "und", "path": "handoffs/README.md", "sensitivity": "internal", "sha8": "323fba8f", "tags": []}
