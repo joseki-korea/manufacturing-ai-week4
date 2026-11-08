@@ -25,3 +25,11 @@ source_of_truth: "docs/RULES.md"
 ## 2. 정본 문서 안내
 전체 세부 규칙 및 행동 지침은 아래 정본 문서를 참고하십시오:
 👉 **[docs/RULES.md](docs/RULES.md)**
+
+
+## 핸드오프 절차 (멀티에이전트, 2026-11-08)
+
+1. 작업을 다른 세션에 넘길 때 `docs/agents/handoffs/active/`에 `TEMPLATE.md` 양식으로 파일을 만든다. 이름은 `YYYYMMDD-HHMM-<from>-to-<to>-<topic>.md`.
+2. 받은 쪽은 파일을 읽고 `ACK: <역할> <시각>` 한 줄만 덧붙인다. 기존 줄은 고치지 않는다(append-only).
+3. 끝나면 `archive/`로 옮긴다. 정리는 janitor, 감시는 watchdog 역할이 맡는다.
+4. 자세한 규칙: [핸드오프 규칙](docs/agents/handoffs/README.md) · [janitor](docs/agents/ROLE-janitor.md) · [watchdog](docs/agents/ROLE-watchdog.md) · [훅 목록](docs/agents/HOOKS.md)
