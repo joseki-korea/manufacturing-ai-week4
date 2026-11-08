@@ -24,7 +24,7 @@ def ignored(path):
     return result
 
 def main():
-    tracked = subprocess.check_output(['git', 'ls-files', '-co', '--exclude-standard', '-z'], cwd=ROOT).decode().split('\0')
+    tracked = subprocess.check_output(['git', 'ls-files', '--cached', '-z'], cwd=ROOT).decode().split('\0')
     records = []
     for name in sorted(set(tracked)):
         if not name.lower().endswith('.md') or ignored(name): continue
