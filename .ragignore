@@ -1,0 +1,18 @@
+# Generated, sensitive, and local index material
+.git/
+node_modules/
+.venv/
+venv/
+__pycache__/
+.env*
+*.key
+*.pem
+*.pdf
+*.png
+*.jpg
+*.ipynb
+/README.md
+src/notebooks/submissions/
+.rag-index/
+*.faiss
+*.sqlite

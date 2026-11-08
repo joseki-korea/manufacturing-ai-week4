@@ -1,3 +1,19 @@
+---
+id: manufacturing-ai-week4/README.md
+title: "충북대학교 제조 AI 실제 (8884023-01) - 4주차 실습 및 과제"
+repo: joseki-korea/manufacturing-ai-week4
+device_scope: all
+doc_type: readme
+tags:
+  - readme
+  - documentation
+status: DRAFT
+updated: '2026-11-07'
+source_of_truth: README.md
+---
+- **GitHub Repository**: https://github.com/joseki-korea/manufacturing-ai-week4
+- **Google Drive Artifacts**: `Orca 산출물/프로젝트/manufacturing-ai-week4/` (pending upload)
+
 # 충북대학교 제조 AI 실제 (8884023-01) - 4주차 실습 및 과제
 
 - **작성자**: 2026154001 정용석
@@ -10,10 +26,10 @@
 
 | 번호 | 실습 노트북 | 핵심 내용 및 실습 과제 |
 |:---:|:---|:---|
-| **Lab 4-1** | [lab4_1_regression_activation_and_loss.ipynb](./2026154001_정용석_lab4_1_regression_activation_and_loss.ipynb) | 회귀(Regression) 출력 활성화함수(Linear, ReLU, Sigmoid, Tanh) 및 손실함수(MSE, MAE, Huber) 비교 실습 |
-| **Lab 4-2** | [lab4_2_classification_activation_and_loss.ipynb](./2026154001_정용석_lab4_2_classification_activation_and_loss.ipynb) | 분류(Classification) Logits, 활성화함수(Sigmoid/Softmax), 손실함수(BCE/CE) 및 다중 라벨 복합 고장 진단 |
-| **Lab 4-3** | [lab4_3_challenging_problems.ipynb](./2026154001_정용석_lab4_3_challenging_problems.ipynb) | 지도학습 4대 도전과제 (20층 망 기울기 소실, 과적합 모델 복잡도/데이터셋 크기, 클래스 불균형 착시) |
-| **Lab 4-4** | [lab4_4_techniques_for_challenging_problems.ipynb](./2026154001_정용석_lab4_4_techniques_for_challenging_problems.ipynb) | 도전과제 극복 기법 (ResNet Residual Connection, L1/L2 정규화, Dropout, Balanced Data Augmentation, Class Weighting) |
+| **Lab 4-1** | [src/notebooks/lab4-1-regression-activation-and-loss.ipynb](./src/notebooks/submissions/2026154001-정용석-lab4-1-regression-activation-and-loss.ipynb) | 회귀(Regression) 출력 활성화함수(Linear, ReLU, Sigmoid, Tanh) 및 손실함수(MSE, MAE, Huber) 비교 실습 |
+| **Lab 4-2** | [src/notebooks/lab4-2-classification-activation-and-loss.ipynb](./src/notebooks/submissions/2026154001-정용석-lab4-2-classification-activation-and-loss.ipynb) | 분류(Classification) Logits, 활성화함수(Sigmoid/Softmax), 손실함수(BCE/CE) 및 다중 라벨 복합 고장 진단 |
+| **Lab 4-3** | [src/notebooks/lab4-3-challenging-problems.ipynb](./src/notebooks/submissions/2026154001-정용석-lab4-3-challenging-problems.ipynb) | 지도학습 4대 도전과제 (20층 망 기울기 소실, 과적합 모델 복잡도/데이터셋 크기, 클래스 불균형 착시) |
+| **Lab 4-4** | [src/notebooks/lab4-4-techniques-for-challenging-problems.ipynb](./src/notebooks/submissions/2026154001-정용석-lab4-4-techniques-for-challenging-problems.ipynb) | 도전과제 극복 기법 (ResNet Residual Connection, L1/L2 정규화, Dropout, Balanced Data Augmentation, Class Weighting) |
 
 ---
 
